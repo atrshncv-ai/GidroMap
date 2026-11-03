@@ -57,3 +57,8 @@ npm run dev
 ```
 
 Откройте `http://localhost:3000`.
+
+## License / Лицензия
+
+Released under the MIT License. See [LICENSE](LICENSE).
+Проект распространяется по лицензии MIT. См. [LICENSE](LICENSE).
